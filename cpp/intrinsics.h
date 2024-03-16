@@ -1,1 +1,0 @@
-/home/alan/dev/BasicGames/b2c/intrinsics.h
